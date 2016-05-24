@@ -5,3 +5,4 @@ build:
   commands:
     - echo 'done done'
     - go build -o hello
+
